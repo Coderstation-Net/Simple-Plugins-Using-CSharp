@@ -1,0 +1,7 @@
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\Demo Plugins\Demo Plugins\bin\Debug\Plugins\Library Plugin.dll
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\Demo Plugins\Demo Plugins\bin\Debug\Plugins\Library Plugin.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\Demo Plugins\Library Plugin\obj\Debug\Library Plugin.csprojResolveAssemblyReference.cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\Demo Plugins\Library Plugin\obj\Debug\Library_Plugin.Library_Dashboard.resources
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\Demo Plugins\Library Plugin\obj\Debug\Library Plugin.csproj.GenerateResource.Cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\Demo Plugins\Library Plugin\obj\Debug\Library Plugin.dll
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\Demo Plugins\Library Plugin\obj\Debug\Library Plugin.pdb
