@@ -2,3 +2,8 @@ D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Samp
 D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\PluginInterface\bin\Debug\PluginInterface.pdb
 D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\PluginInterface\obj\Debug\PluginInterface.dll
 D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Sample Plugins\PluginInterface\obj\Debug\PluginInterface.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Plugins Frameworks\Simple-Plugins\PluginInterface\bin\Debug\PluginInterface.dll
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Plugins Frameworks\Simple-Plugins\PluginInterface\bin\Debug\PluginInterface.pdb
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Plugins Frameworks\Simple-Plugins\PluginInterface\obj\Debug\PluginInterface.csprojResolveAssemblyReference.cache
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Plugins Frameworks\Simple-Plugins\PluginInterface\obj\Debug\PluginInterface.dll
+D:\SAGUIN-CODES\Program Source Code\C-Sharp ASP\C-Sharp-Sample\Usable Codes\Plugins Frameworks\Simple-Plugins\PluginInterface\obj\Debug\PluginInterface.pdb
